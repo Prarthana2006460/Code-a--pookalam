@@ -5,28 +5,26 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Your Details
-- [Name] - [Branch] - [Semester]
+- [Prarthana MJ] - [ECE] -[s3]
 
 
 
 ### Hosted Pookalam Link
-
+https://github.com/Prarthana2006460/Code-a--pookalam.git
 
 
 ### Pookalam Description
-Brief description about your pookalam. What makes it special and different.
-
-
+The code generated a Pookalam design ,a traditional Kerala flower arrangement using html.
 
 ### Technologies Used 
-
+HTML
 
 ### Video explaining How you build the pookalam
 
 
 
 ### Screenshots
-
+https://image2url.com/images/1756993574446-7c3940a4-2bed-4aec-80b6-2cc43a301684.png
 
 
 Happy Onam ! <br>
